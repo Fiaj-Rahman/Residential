@@ -41,6 +41,7 @@ const AddDocument = () => {
       <p className="py-2 font-bold text-2xl">{job.segment_name}</p>
       <p className=" font-bold mt-3 mb-3 text-2xl">{job.price}</p>
 
+{/* hello */}
 
         <div className='flex justify-between items-center states'>
             <h1>{job.area}</h1>

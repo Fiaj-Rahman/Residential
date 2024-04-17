@@ -6,8 +6,7 @@ import router from './Compoment/Router/Router.jsx'
 import FirebaseProvider from './Compoment/FirebaseProvider/FirebaseProvider.jsx'
 import { ToastContainer } from 'react-toastify';
 import AOS from 'aos';
-import 'aos/dist/aos.css'; // You can also use <link> for styles
-// ..
+import 'aos/dist/aos.css'; 
 AOS.init();
 
 ReactDOM.createRoot(document.getElementById('root')).render(

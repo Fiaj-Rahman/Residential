@@ -6,6 +6,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { saveJobApplication } from '../utility/localstorage';
 
+// Blog page start
 
 const Blog = () => {
     const blog = useLoaderData()

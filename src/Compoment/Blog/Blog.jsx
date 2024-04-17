@@ -21,6 +21,7 @@ const { estate_title, segment_name, description, price, status, area, location, 
         toast('Add Properties Successfully....')
     }
 
+    // blog here
 
     return (
         <div className='max-w-7xl m-auto'>

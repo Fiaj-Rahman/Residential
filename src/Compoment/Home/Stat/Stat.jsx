@@ -5,7 +5,7 @@ import { HiHomeModern } from "react-icons/hi2";
 import '../../AllCSS/Component.css'
 import 'animate.css';
 
-// stat build here 
+
 
 const Stat = () => {
     return (

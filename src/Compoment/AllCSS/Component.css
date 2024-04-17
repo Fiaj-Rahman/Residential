@@ -1,0 +1,24 @@
+.cardsDetails{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+@media only screen and (max-width: 1000px){
+
+    .states{
+        flex-direction: column;
+        
+    }
+
+    .StatesPart{
+        margin-bottom: 20px;
+    }
+
+    .cardsDetails{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+
+}
+
+
